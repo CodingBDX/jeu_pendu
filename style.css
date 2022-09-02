@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: 900;
+}
+
+#score {
+    /* display: flex; */
+    height: 60vh;
+}
+
+#score .icons {
+    height: 60vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#choices ul li,
+#answer ul li {
+    display: inline-block;
+    margin: 0 .3em;
+}
+
+.disable {
+    opacity: .3;
+}
+
+.icons {
+    font-size: 3em;
+}
