@@ -11,8 +11,8 @@
 
 [x] choisir un mot
 [x] creer le mapping des mots
-[] generer choix de lettre
-[] afficher les informations
-[] ecouter les evenements de souris mouse event/keyboard
-[] verifier la lettre, si pas dans le mot, un trait
-[] endgame si les lettres sont au max, sinon win
+[x] generer choix de lettre
+[x] afficher les informations
+[x] ecouter les evenements de souris mouse event/keyboard
+[x] verifier la lettre, si pas dans le mot, un trait
+[x] endgame si les lettres sont au max, sinon win
